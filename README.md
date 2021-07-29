@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I am Front End Developer based in Hamilton, ON, Canada. 
+  
+  - 🔭 I’m currently engaged in finding a suitable job postion within
+  - 🌱 While learing and constantly improving my Front End Developemnt skills through various DIY projects. 
+  
+📫 You can reach me at: danijel.stefanovic@mohawkcollege.ca
+
 <!--
 **D-anijel-S-tefanovic/D-anijel-S-tefanovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
