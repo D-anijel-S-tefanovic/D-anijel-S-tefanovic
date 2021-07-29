@@ -5,7 +5,9 @@ I am Front End Developer based in Hamilton, ON, Canada.
   - 🔭 I’m currently engaged in finding a suitable job postion within
   - 🌱 While learing and constantly improving my Front End Developemnt skills through various DIY projects. 
   
-📫 You can reach me at: danijel.stefanovic@mohawkcollege.ca
+📫 You can reach me at: danijel.stefanovic@mohawkcollege.ca 
+
+OR 👇
 
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/)
