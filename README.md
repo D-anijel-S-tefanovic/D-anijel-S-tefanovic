@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Front End Developer based in Hamilton, ON, Canada. 
+I am Front End Developer based in Hamilton, ON, Canada.  
   
   - 🔭 Currently engaged in finding a suitable job position, 
   - 🌱 While learning and constantly improving my Front End Development skills through various DIY projects. 
