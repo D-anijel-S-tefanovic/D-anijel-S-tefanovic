@@ -27,7 +27,7 @@ OR 👇
 <img align="left" alt="java" src="https://img.shields.io/badge/java-white?style=for-the-badge&logo=java&logoColor=lightblue&labelColor=grey" />
 <img align="left" alt="react" src="https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&labelColor=grey" />    
 <img align="left" alt="react-native" src="https://img.shields.io/badge/react native-white?style=for-the-badge&logo=react&labelColor=grey" />
-<img align="left" alt="postman" src="https://img.shields.io/badge/postman-white?style=for-the-badge&logo=postman&labelColor=grey" />
+<img align="left" alt="postman" src="https://img.shields.io/badge/postman-white?style=for-the-badge&logo=postman&labelColor=grey" /> \
 <br/>
 <div>
 <img align="left" alt="wordpress" src="https://img.shields.io/badge/wordpress-white?style=for-the-badge&logo=wordpress&logoColor=lightblue&labelColor=grey" /> 
