@@ -31,7 +31,7 @@ OR 👇
 <br>
 <img align="left" alt="postman" src="https://img.shields.io/badge/postman-white?style=for-the-badge&logo=postman&labelColor=grey" />
 <img align="left" alt="figma" src="https://img.shields.io/badge/figma-white?style=for-the-badge&logo=figma&labelColor=grey" />    
-<img align="left" alt="canva" src="https://img.shields.io/badge/canva-white?style=for-the-badge&logo=canva&labelColor=grey" />
+<img align="left" alt="canva" src="https://img.shields.io/badge/canva-white?style=for-the-badge&logo=canva&labelColor=grey" /> 
 <img align="left" alt="jira" src="https://img.shields.io/badge/jira-white?style=for-the-badge&logo=jira&labelColor=grey" />
 
 
