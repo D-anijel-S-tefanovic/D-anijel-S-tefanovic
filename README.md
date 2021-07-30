@@ -25,6 +25,6 @@ OR 👇
 <img align="left" alt="medium" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
 <img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
 <img align="left" alt="spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
-<div vertical-align="middle"> REact<img src="https://img.icons8.com/color/48/000000/react-native.png"/> </div>
+<div vertical-align="middle"> REact<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="xcddcsd" /> </div>
 
  
