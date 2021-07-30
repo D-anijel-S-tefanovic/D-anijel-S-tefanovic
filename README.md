@@ -28,7 +28,7 @@ OR 👇
 <img height="50px" alt="react-native" src="https://img.shields.io/badge/react native-white?style=for-the-badge&logo=react&labelColor=grey" />
 <img height="50px" align="left" alt="postman" src="https://img.shields.io/badge/postman-white?style=for-the-badge&logo=postman&labelColor=grey" /> 
 <img height="50px" align="left" alt="wordpress" src="https://img.shields.io/badge/wordpress-white?style=for-the-badge&logo=wordpress&logoColor=lightblue&labelColor=grey" /> 
-<img height="50px" alt="figma" src="https://img.shields.io/badge/figma-white?style=for-the-badge&logo=figma&labelColor=grey" />    
+<img height="50px" alt="figma" src="https://img.shields.io/badge/figma-white?style=for-the-badge&logo=figma&labelColor=grey" />     
 <img height="50px" align="left" alt="canva" src="https://img.shields.io/badge/canva-white?style=for-the-badge&logo=canva&labelColor=grey" />  
 <img height="50px" align="left" alt="postgre-sql" src="https://img.shields.io/badge/postgresql-white?style=for-the-badge&logo=postgresql&logoColor=lightblue&labelColor=grey"/>
 <img height="50px" alt="mongo-db" src="https://img.shields.io/badge/mongodb-white?style=for-the-badge&logo=mongodb&labelColor=grey" />    
