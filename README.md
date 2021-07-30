@@ -23,5 +23,5 @@ OR 👇
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 
 <div> <h1 vertical-align="middle" display="inline">REact</h1><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="xcddcsd" display="inline" /> </div>
-
+![alt text](image.jpg)
  
