@@ -20,7 +20,7 @@ OR 👇
 
 ## To Find Out More About My Skills 
 
-<img height="45%" align="left" alt="html5" src="https://img.shields.io/badge/html5-white?style=for-the-badge&logo=html5&labelColor=grey" /> 
+<img height="50px" padding="0px" align="left" alt="html5" src="https://img.shields.io/badge/html5-white?style=for-the-badge&logo=html5&labelColor=grey" /> 
 <img height="50px" align="left" alt="css3" src="https://img.shields.io/badge/css3-white?style=for-the-badge&logo=css3&logoColor=lightblue&labelColor=grey" />
 <img height="50px" alt="javascript" src="https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&labelColor=grey" />
 <img height="50px" align="left" alt="java" src="https://img.shields.io/badge/java-white?style=for-the-badge&logo=java&logoColor=lightblue&labelColor=grey" />
