@@ -29,6 +29,7 @@ OR 👇
 <img align="left" alt="postman" src="https://img.shields.io/badge/postman-white?style=for-the-badge&logo=postman&labelColor=grey" />
 <br>
 <br>
+<br>
 <img align="left" alt="wordpress" src="https://img.shields.io/badge/wordpress-white?style=for-the-badge&logo=wordpress&logoColor=lightblue&labelColor=grey" /> 
 <img align="left" alt="figma" src="https://img.shields.io/badge/figma-white?style=for-the-badge&logo=figma&labelColor=grey" />    
 <img align="left" alt="canva" src="https://img.shields.io/badge/canva-white?style=for-the-badge&logo=canva&labelColor=grey" /> 
@@ -36,7 +37,6 @@ OR 👇
 <img align="left" alt="mongo-db" src="https://img.shields.io/badge/mongodb-white?style=for-the-badge&logo=mongodb&labelColor=grey" />    
 <img align="left" alt="git-lab" src="https://img.shields.io/badge/gitlab-white?style=for-the-badge&logo=gitlab&labelColor=grey" />
 <img align="left" alt="atom-editor" src="https://img.shields.io/badge/atom editor-white?style=for-the-badge&logo=atom&logoColor=lightgreen&labelColor=grey" />  
-<br>
 <br>
 <br>
 <img align="left" alt="jira" src="https://img.shields.io/badge/jira-white?style=for-the-badge&logo=jira&logoColor=lightblue&labelColor=grey" />
