@@ -20,7 +20,7 @@ OR 👇
 
 ## To Find Out More About My Skills 
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img align="left" alt="nodejs" src="https://img.shields.io/badge/javascript-white?&style=for-the-badge&logo=javascript&logoColor=%#F7DF1E" />
+<img align="left" alt="nodejs" src="https://img.shields.io/badge/javascript-white?&style=for-the-badge&logo=javascript&logoColor=%#F7DF1E"  />
 
 <div> <h1 vertical-align="middle" display="inline">REact</h1><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="xcddcsd" display="inline" /> </div>
 ![alt text](image.jpg)
