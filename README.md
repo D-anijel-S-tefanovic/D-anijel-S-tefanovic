@@ -21,21 +21,21 @@ OR 👇
 ## To Find Out More About My Skills 
 
 
-<img width="300px" height="50px"  alt="html5" src="https://img.shields.io/badge/html5-white?style=for-the-badge&logo=html5&labelColor=grey" /> 
-<img width="300ox" height="50px"  align="left" alt="css3" src="https://img.shields.io/badge/css3-white?style=for-the-badge&logo=css3&logoColor=lightblue&labelColor=grey" />
-<img width="300px" height="50px"  align="left" alt="javascript" src="https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&labelColor=grey" />
-<img width="300px" height="50px"  alt="java" src="https://img.shields.io/badge/java-white?style=for-the-badge&logo=java&logoColor=lightblue&labelColor=grey" />
+<img height="100px"  align="left" alt="html5" src="https://img.shields.io/badge/html5-white?style=for-the-badge&logo=html5&labelColor=grey" /> 
+<img height="100px"  align="left" alt="css3" src="https://img.shields.io/badge/css3-white?style=for-the-badge&logo=css3&logoColor=lightblue&labelColor=grey" />
+<img height="100px"  align="left" alt="javascript" src="https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&labelColor=grey" />
+<img height="100px"  align="left" alt="java" src="https://img.shields.io/badge/java-white?style=for-the-badge&logo=java&logoColor=lightblue&labelColor=grey" />
 <img height="100px" align="left" alt="react" src="https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&labelColor=grey" />    
 <img height="100px" align="left" alt="react-native" src="https://img.shields.io/badge/react native-white?style=for-the-badge&logo=react&labelColor=grey" />
 <img height="100px" align="left" alt="postman" src="https://img.shields.io/badge/postman-white?style=for-the-badge&logo=postman&labelColor=grey" /> 
 <img height="100px" align="left" alt="wordpress" src="https://img.shields.io/badge/wordpress-white?style=for-the-badge&logo=wordpress&logoColor=lightblue&labelColor=grey" /> 
-<img height="100px"  align="left" alt="figma" src="https://img.shields.io/badge/figma-white?style=for-the-badge&logo=figma&labelColor=grey" />    
-<img height="100px" align="left" alt="canva" src="https://img.shields.io/badge/canva-white?style=for-the-badge&logo=canva&labelColor=grey" />  
-<img height="100px" align="left" alt="postgre-sql" src="https://img.shields.io/badge/postgresql-white?style=for-the-badge&logo=postgresql&logoColor=lightblue&labelColor=grey" />
-<img height="100px" align="left" alt="mongo-db" src="https://img.shields.io/badge/mongodb-white?style=for-the-badge&logo=mongodb&labelColor=grey" />    
-<img height="100px" align="left" alt="git-lab" src="https://img.shields.io/badge/gitlab-white?style=for-the-badge&logo=gitlab&labelColor=grey" />
-<img height="100px" align="left" alt="atom-editor" src="https://img.shields.io/badge/atom editor-white?style=for-the-badge&logo=atom&logoColor=lightgreen&labelColor=grey" />  
-<img height="100px" align="left" alt="jira" src="https://img.shields.io/badge/jira-white?style=for-the-badge&logo=jira&logoColor=lightblue&labelColor=grey" />
+<img height="100px"  align="right" alt="figma" src="https://img.shields.io/badge/figma-white?style=for-the-badge&logo=figma&labelColor=grey" />    
+<img height="100px" align="right" alt="canva" src="https://img.shields.io/badge/canva-white?style=for-the-badge&logo=canva&labelColor=grey" />  
+<img height="100px" align="right" alt="postgre-sql" src="https://img.shields.io/badge/postgresql-white?style=for-the-badge&logo=postgresql&logoColor=lightblue&labelColor=grey" />
+<img height="100px" align="right" alt="mongo-db" src="https://img.shields.io/badge/mongodb-white?style=for-the-badge&logo=mongodb&labelColor=grey" />    
+<img height="100px" align="right" alt="git-lab" src="https://img.shields.io/badge/gitlab-white?style=for-the-badge&logo=gitlab&labelColor=grey" />
+<img height="100px" align="right" alt="atom-editor" src="https://img.shields.io/badge/atom editor-white?style=for-the-badge&logo=atom&logoColor=lightgreen&labelColor=grey" />  
+<img height="100px" align="right" alt="jira" src="https://img.shields.io/badge/jira-white?style=for-the-badge&logo=jira&logoColor=lightblue&labelColor=grey" />
 
 
 
