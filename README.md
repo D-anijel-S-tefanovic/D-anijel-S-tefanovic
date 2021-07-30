@@ -31,7 +31,7 @@ OR 👇
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img align="left" alt="wordpress" src="https://img.shields.io/badge/wordpress-white?style=for-the-badge&logo=wordpress&logoColor=lightblue&labelColor=grey" /> 
 <img align="left" alt="figma" src="https://img.shields.io/badge/figma-white?style=for-the-badge&logo=figma&labelColor=grey" />    
-<img align="left" alt="canva" src="https://img.shields.io/badge/canva-white?style=for-the-badge&logo=canva&labelColor=grey" /> 
+<img align="left" alt="canva" src="https://img.shields.io/badge/canva-white?style=for-the-badge&logo=canva&labelColor=grey" />  
 <img align="left" alt="postgre-sql" src="https://img.shields.io/badge/postgresql-white?style=for-the-badge&logo=postgresql&logoColor=lightblue&labelColor=grey" />
 <img align="left" alt="mongo-db" src="https://img.shields.io/badge/mongodb-white?style=for-the-badge&logo=mongodb&labelColor=grey" />    
 <img align="left" alt="git-lab" src="https://img.shields.io/badge/gitlab-white?style=for-the-badge&logo=gitlab&labelColor=grey" />
