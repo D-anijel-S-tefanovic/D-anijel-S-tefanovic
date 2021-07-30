@@ -37,8 +37,9 @@ OR 👇
 <img align="left" alt="git-lab" src="https://img.shields.io/badge/gitlab-white?style=for-the-badge&logo=gitlab&labelColor=grey" />
 <img align="left" alt="atom-editor" src="https://img.shields.io/badge/atom editor-white?style=for-the-badge&logo=atom&logoColor=lightgreen&labelColor=grey" />  
 <br>
-<br>  
-<img align="left" alt="jira" src="https://img.shields.io/badge/jira-white?style=for-the-badge&logo=jira&logoColor=informational&labelColor=grey" />
+<br>
+<br>
+<img align="left" alt="jira" src="https://img.shields.io/badge/jira-white?style=for-the-badge&logo=jira&logoColor=lightblue&labelColor=grey" />
 
 
 
