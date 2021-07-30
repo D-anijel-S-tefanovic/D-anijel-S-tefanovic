@@ -24,10 +24,10 @@ OR 👇
 <img height="50px" align="left" alt="html5" src="https://img.shields.io/badge/html5-white?style=for-the-badge&logo=html5&labelColor=grey" /> 
 <img height="50px"  align="left" alt="css3" src="https://img.shields.io/badge/css3-white?style=for-the-badge&logo=css3&logoColor=lightblue&labelColor=grey" />
 <img height="50px"  align ="left" alt="javascript" src="https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&labelColor=grey" />
-<img height="50px"  align="left" alt="java" src="https://img.shields.io/badge/java-white?style=for-the-badge&logo=java&logoColor=lightblue&labelColor=grey" />
-<img height="50px" alt="react" src="https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&labelColor=grey" />    
-<img height="50px" alt="react-native" src="https://img.shields.io/badge/react native-white?style=for-the-badge&logo=react&labelColor=grey" />
-<img height="50px" alt="postman" src="https://img.shields.io/badge/postman-white?style=for-the-badge&logo=postman&labelColor=grey" /> 
+<img height="50px"  alt="java" src="https://img.shields.io/badge/java-white?style=for-the-badge&logo=java&logoColor=lightblue&labelColor=grey" />
+<img height="50px" align="left" alt="react" src="https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&labelColor=grey" />    
+<img height="50px" align="left" alt="react-native" src="https://img.shields.io/badge/react native-white?style=for-the-badge&logo=react&labelColor=grey" />
+<img height="50px" align="left" alt="postman" src="https://img.shields.io/badge/postman-white?style=for-the-badge&logo=postman&labelColor=grey" /> 
 <img height="50px" align="center" alt="wordpress" src="https://img.shields.io/badge/wordpress-white?style=for-the-badge&logo=wordpress&logoColor=lightblue&labelColor=grey" /> 
 <img height="50px"   alt="figma" src="https://img.shields.io/badge/figma-white?style=for-the-badge&logo=figma&labelColor=grey" />    
 <img height="50px"  alt="canva" src="https://img.shields.io/badge/canva-white?style=for-the-badge&logo=canva&labelColor=grey" />  
