@@ -30,6 +30,7 @@ OR 👇
 
 <br>
 <br>
+
 <img align="left" alt="wordpress" src="https://img.shields.io/badge/wordpress-white?style=for-the-badge&logo=wordpress&logoColor=lightblue&labelColor=grey" /> 
 <img align="left" alt="figma" src="https://img.shields.io/badge/figma-white?style=for-the-badge&logo=figma&labelColor=grey" />    
 <img align="left" alt="canva" src="https://img.shields.io/badge/canva-white?style=for-the-badge&logo=canva&labelColor=grey" /> 
@@ -40,6 +41,7 @@ OR 👇
 
 <br>
 <br>
+
 <img align="left" alt="jira" src="https://img.shields.io/badge/jira-white?style=for-the-badge&logo=jira&logoColor=lightblue&labelColor=grey" />
 
 
