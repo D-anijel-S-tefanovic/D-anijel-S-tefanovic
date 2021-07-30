@@ -31,7 +31,7 @@ OR 👇
 <img height="100px" align="left" alt="wordpress" src="https://img.shields.io/badge/wordpress-white?style=for-the-badge&logo=wordpress&logoColor=lightblue&labelColor=grey" /> 
 <img height="100px"  align="right" alt="figma" src="https://img.shields.io/badge/figma-white?style=for-the-badge&logo=figma&labelColor=grey" />    
 <img height="100px" align="right" alt="canva" src="https://img.shields.io/badge/canva-white?style=for-the-badge&logo=canva&labelColor=grey" />  
-<img height="100px" align="right" alt="postgre-sql" src="https://img.shields.io/badge/postgresql-white?style=for-the-badge&logo=postgresql&logoColor=lightblue&labelColor=grey" />
+<img height="100px" align="right" alt="postgre-sql" src="https://img.shields.io/badge/postgresql-white?style=for-the-badge&logo=postgresql&logoColor=lightblue&labelColor=grey"/>
 <img height="100px" align="right" alt="mongo-db" src="https://img.shields.io/badge/mongodb-white?style=for-the-badge&logo=mongodb&labelColor=grey" />    
 <img height="100px" align="right" alt="git-lab" src="https://img.shields.io/badge/gitlab-white?style=for-the-badge&logo=gitlab&labelColor=grey" />
 <img height="100px" align="right" alt="atom-editor" src="https://img.shields.io/badge/atom editor-white?style=for-the-badge&logo=atom&logoColor=lightgreen&labelColor=grey" />  
