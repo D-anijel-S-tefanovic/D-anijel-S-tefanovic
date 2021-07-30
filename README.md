@@ -19,11 +19,12 @@ OR 👇
 <br>
 
 ## To Find Out More About My Skills 
-<img align="left" alt="react" src="https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&labelColor=grey" />
-<img align="left" alt="nodejs" src="https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&labelColor=grey"  />
-<img align="left" alt="react" src="https://img.shields.io/badge/html5-white?style=for-the-badge&logo=html5&labelColor=grey" /> 
-<img align="left" alt="nodejs" src="https://img.shields.io/badge/css3-white?style=for-the-badge&logo=css3&logoColor=blue&labelColor=grey"  />
 
+<img align="left" alt="html5" src="https://img.shields.io/badge/html5-white?style=for-the-badge&logo=html5&labelColor=grey" /> 
+<img align="left" alt="css3" src="https://img.shields.io/badge/css3-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=grey" />
+<img align="left" alt="javascript" src="https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&labelColor=grey" />
+<img align="left" alt="react" src="https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&labelColor=grey" />
+<img align="left" alt="react-native" src="https://img.shields.io/badge/css3-white?style=for-the-badge&logo=css3&logoColor=blue&labelColor=grey" />
 
 
  
