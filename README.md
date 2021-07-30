@@ -27,7 +27,7 @@ OR 👇
 <img align="left" alt="react-native" src="https://img.shields.io/badge/css3-white?style=for-the-badge&logo=css3&logoColor=blue&labelColor=grey" />
 
 <img align="left" alt="java" src="https://img.shields.io/badge/java-white?style=for-the-badge&logo=java&labelColor=grey" />
-<img align="left" alt="atom-editor" src="https://img.shields.io/badge/atom editor-white?style=for-the-badge&logo=atom&labelColor=grey" />    
+<img align="left" alt="atom-editor" src="https://img.shields.io/badge/atom editor-white?style=for-the-badge&logo=atom&labelColor=grey" />     
 <br>
 <img align="left" alt="postman" src="https://img.shields.io/badge/postman-white?style=for-the-badge&logo=postman&labelColor=grey" />
 <img align="left" alt="figma" src="https://img.shields.io/badge/figma-white?style=for-the-badge&logo=figma&labelColor=grey" />    
