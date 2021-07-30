@@ -12,7 +12,7 @@ OR 👇
 
 
 ## Connect With Me
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/)
+[<img align="left" alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/danijel-stefanovic/)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/)
 
 <br>  
@@ -25,6 +25,5 @@ OR 👇
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/css3-white?style=for-the-badge&logo=css3&logoColor=blue&labelColor=grey"  />
 
 
-<div> <h1 vertical-align="middle" display="inline">REact</h1><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="xcddcsd" display="inline" /> </div>
-![alt text](image.jpg)
+
  
