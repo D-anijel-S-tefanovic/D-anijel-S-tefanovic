@@ -20,9 +20,6 @@ OR 👇
 
 ## To Find Out More About My Skills 
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1") Inline
-
-
 
 <img align="left" alt="html5" src="https://img.shields.io/badge/html5-white?style=for-the-badge&logo=html5&labelColor=grey" /> 
 <img align="left" alt="css3" src="https://img.shields.io/badge/css3-white?style=for-the-badge&logo=css3&logoColor=lightblue&labelColor=grey" />
@@ -32,8 +29,6 @@ OR 👇
 <img align="left" alt="react-native" src="https://img.shields.io/badge/react native-white?style=for-the-badge&logo=react&labelColor=grey" />
 <img align="left" alt="postman" src="https://img.shields.io/badge/postman-white?style=for-the-badge&logo=postman&labelColor=grey" />
 
-<br>
-<br>
 
 <img align="left" alt="wordpress" src="https://img.shields.io/badge/wordpress-white?style=for-the-badge&logo=wordpress&logoColor=lightblue&labelColor=grey" /> 
 <img align="left" alt="figma" src="https://img.shields.io/badge/figma-white?style=for-the-badge&logo=figma&labelColor=grey" />    
