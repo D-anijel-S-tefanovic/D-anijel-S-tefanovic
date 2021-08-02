@@ -25,16 +25,16 @@ OR 👇
 <img height="45px" alt="bootstrap" src="https://img.shields.io/badge/bootstrap-white?style=for-the-badge&logo=bootstrap&labelColor=grey" />  
 <img height="45px" align="left" alt="sass" src="https://img.shields.io/badge/sass-white?style=for-the-badge&logo=sass&labelColor=grey" />
 <img height="45px" align="left" alt="material-ui" src="https://img.shields.io/badge/material ui-white?style=for-the-badge&logo=materialui&logoColor=blue&labelColor=grey" /> 
-<img height="45px" alt="java" src="https://img.shields.io/badge/java-white?style=for-the-badge&logo=java&logoColor=lightblue&labelColor=grey" />
-<img height="45px" align="left" alt="javascript" src="https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&labelColor=grey" />
+<img height="45px" alt="javascript" src="https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&labelColor=grey" />
 <img height="45px" align="left" alt="react" src="https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&labelColor=grey" />   
-<img height="45px" alt="redux" src="https://img.shields.io/badge/redux-white?style=for-the-badge&logo=redux&logoColor=purple&labelColor=grey" />  
-<img height="45px" align="left" alt="react-native" src="https://img.shields.io/badge/react native-white?style=for-the-badge&logo=react&labelColor=grey" />
-<img height="45px" align="left" alt="aws" src="https://img.shields.io/badge/aws-white?style=for-the-badge&logo=amazonaws&logoColor=orange&labelColor=grey" /> 
-<img height="45px" alt="postman" src="https://img.shields.io/badge/postman-white?style=for-the-badge&logo=postman&labelColor=grey" /> 
+<img height="45px" align="left" alt="redux" src="https://img.shields.io/badge/redux-white?style=for-the-badge&logo=redux&logoColor=purple&labelColor=grey" />  
+<img height="45px" alt="react-native" src="https://img.shields.io/badge/react native-white?style=for-the-badge&logo=react&labelColor=grey" />
 <img height="45px" align="left" alt="wordpress" src="https://img.shields.io/badge/wordpress-white?style=for-the-badge&logo=wordpress&logoColor=blue&labelColor=grey" /> 
 <img height="45px" align="left" alt="figma" src="https://img.shields.io/badge/figma-white?style=for-the-badge&logo=figma&labelColor=grey" />     
-<img height="45px" alt="canva" src="https://img.shields.io/badge/canva-white?style=for-the-badge&logo=canva&labelColor=grey" />  
+<img height="45px" alt="canva" src="https://img.shields.io/badge/canva-white?style=for-the-badge&logo=canva&labelColor=grey" /> 
+<img height="45px" align="left" alt="java" src="https://img.shields.io/badge/java-white?style=for-the-badge&logo=java&logoColor=lightblue&labelColor=grey" />
+<img height="45px" align="left" alt="aws" src="https://img.shields.io/badge/aws-white?style=for-the-badge&logo=amazonaws&logoColor=orange&labelColor=grey" /> 
+<img height="45px" alt="postman" src="https://img.shields.io/badge/postman-white?style=for-the-badge&logo=postman&labelColor=grey" /> 
 <img height="45px" align="left" alt="postgre-sql" src="https://img.shields.io/badge/postgresql-white?style=for-the-badge&logo=postgresql&logoColor=lightblue&labelColor=grey"/>
 <img height="45px" align="left" alt="mongo-db" src="https://img.shields.io/badge/mongodb-white?style=for-the-badge&logo=mongodb&labelColor=grey" />     
 <img height="45px" alt="git-hub" src="https://img.shields.io/badge/github-white?style=for-the-badge&logo=github&logoColor=black&labelColor=grey" />
