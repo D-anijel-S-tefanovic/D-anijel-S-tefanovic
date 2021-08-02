@@ -38,7 +38,7 @@ OR 👇
  
 <img height="45px" align="left" alt="bootstrap" src="https://img.shields.io/badge/bootstrap-white?style=for-the-badge&logo=bootstrap&labelColor=grey" />  
 <img height="45px" align="left" alt="sass" src="https://img.shields.io/badge/sass-white?style=for-the-badge&logo=sass&labelColor=grey" />
-<img height="45px" alt="aws" src="https://img.shields.io/badge/aws-white?style=for-the-badge&logo=amazonaws&labelColor=grey" />     
+<img height="45px" alt="aws" src="https://img.shields.io/badge/aws-white?style=for-the-badge&logo=amazonaws&logoColor=orange&labelColor=grey" />     
 <img height="45px" align="left" alt="git-hub" src="https://img.shields.io/badge/github-white?style=for-the-badge&logo=github&logoColor=black&labelColor=grey" />
 <img height="45px" align="left" alt="redux" src="https://img.shields.io/badge/redux-white?style=for-the-badge&logo=redux&logoColor=purple&labelColor=grey" />  
 <img height="45px" alt="material-ui" src="https://img.shields.io/badge/materialui-white?style=for-the-badge&logo=materialui&logoColor=lightblue&labelColor=grey" /> 
