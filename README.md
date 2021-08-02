@@ -25,8 +25,8 @@ OR 👇
 <img height="45px" alt="bootstrap" src="https://img.shields.io/badge/bootstrap-white?style=for-the-badge&logo=bootstrap&labelColor=grey" />  
 <img height="45px" align="left" alt="sass" src="https://img.shields.io/badge/sass-white?style=for-the-badge&logo=sass&labelColor=grey" />
 <img height="45px" align="left" alt="material-ui" src="https://img.shields.io/badge/material ui-white?style=for-the-badge&logo=materialui&logoColor=blue&labelColor=grey" /> 
-<img height="45px" alt="javascript" src="https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&labelColor=grey" />
-<img height="45px" align="left" alt="java" src="https://img.shields.io/badge/java-white?style=for-the-badge&logo=java&logoColor=lightblue&labelColor=grey" />
+<img height="45px" alt="java" src="https://img.shields.io/badge/java-white?style=for-the-badge&logo=java&logoColor=lightblue&labelColor=grey" />
+<img height="45px" align="left" alt="javascript" src="https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&labelColor=grey" />
 <img height="45px" align="left" alt="react" src="https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&labelColor=grey" />   
 <img height="45px" alt="redux" src="https://img.shields.io/badge/redux-white?style=for-the-badge&logo=redux&logoColor=purple&labelColor=grey" />  
 <img height="45px" align="left" alt="react-native" src="https://img.shields.io/badge/react native-white?style=for-the-badge&logo=react&labelColor=grey" />
@@ -41,3 +41,4 @@ OR 👇
 <img height="45px" align="left" alt="git-lab" src="https://img.shields.io/badge/gitlab-white?style=for-the-badge&logo=gitlab&labelColor=grey" />
 <img height="45px" align="left" alt="atom-editor" src="https://img.shields.io/badge/atom editor-white?style=for-the-badge&logo=atom&logoColor=lightgreen&labelColor=grey" />  
 <img height="45px" alt="jira" src="https://img.shields.io/badge/jira-white?style=for-the-badge&logo=jira&logoColor=blue&labelColor=grey" /> 
+ 
