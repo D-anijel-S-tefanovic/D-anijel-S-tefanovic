@@ -36,5 +36,10 @@ OR 👇
 <img height="45px" align="left" alt="atom-editor" src="https://img.shields.io/badge/atom editor-white?style=for-the-badge&logo=atom&logoColor=lightgreen&labelColor=grey" />  
 <img height="45px" alt="jira" src="https://img.shields.io/badge/jira-white?style=for-the-badge&logo=jira&logoColor=blue&labelColor=grey" />     
  
-
+<img height="45px" align="left" alt="bootstrap" src="https://img.shields.io/badge/canva-white?style=for-the-badge&logo=bootstrap&labelColor=grey" />  
+<img height="45px" align="left" alt="sass" src="https://img.shields.io/badge/postgresql-white?style=for-the-badge&logo=sass&logoColor=lightblue&labelColor=grey"/>
+<img height="45px" alt="aws" src="https://img.shields.io/badge/mongodb-white?style=for-the-badge&logo=aws&labelColor=grey" />     
+<img height="45px" align="left" alt="git-hub" src="https://img.shields.io/badge/gitlab-white?style=for-the-badge&logo=github&labelColor=grey" />
+<img height="45px" align="left" alt="redux" src="https://img.shields.io/badge/atom editor-white?style=for-the-badge&logo=redux&logoColor=lightgreen&labelColor=grey" />  
+<img height="45px" alt="materialui" src="https://img.shields.io/badge/jira-white?style=for-the-badge&logo=materialui&logoColor=blue&labelColor=grey" /> 
    
