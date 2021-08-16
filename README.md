@@ -42,5 +42,5 @@ OR 👇
 <img height="45px" align="left" alt="atom-editor" src="https://img.shields.io/badge/atom editor-white?style=for-the-badge&logo=atom&logoColor=lightgreen&labelColor=grey" />  
 <img height="45px" alt="jira" src="https://img.shields.io/badge/jira-white?style=for-the-badge&logo=jira&logoColor=blue&labelColor=grey" />  
   
-                          
+                           
       
