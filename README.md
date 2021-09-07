@@ -1,11 +1,11 @@
 ### Hi there 👋  
 
-I am aspiring Front End Developer based in Hamilton, ON, Canada.  
+I am current Web Developer and aspiring Front End Developer based in Hamilton, ON, Canada.  
   
   - 🔭 Currently engaged in finding a suitable job position, 
-  - 🌱 While learning and constantly improving my Front End Development skills through various DIY projects. 
+  - 🌱 While learning and constantly improving my Web - Front End Development skills through various DIY projects. 
   
-📫 You can reach me at: danijel.stefanovic@mohawkcollege.ca 
+📫 You can reach me at: danijel94stefanovic@gmail.com  
  
   
 OR 👇
