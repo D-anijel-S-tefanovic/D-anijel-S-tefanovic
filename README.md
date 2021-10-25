@@ -1,11 +1,11 @@
 ### Hi there 👋  
 
-I am current Web Developer and aspiring Front End Developer based in Hamilton, ON, Canada.  
+I am a passionate Web Developer based in Hamilton, ON, Canada.  
   
   - 🔭 Currently engaged in finding a suitable job position, 
   - 🌱 While learning and constantly improving my Web - Front End Development skills through various DIY projects. 
   
-📫 You can reach me at: danijel94stefanovic@gmail.com  
+📫 You can reach me at: danijel.stefanovic@opentowork.org 
  
   
 OR 👇
@@ -13,6 +13,7 @@ OR 👇
 
 ## Connect With Me
 [<img align="left" alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/danijel-stefanovic/)
+[<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack overflow-%222426.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />](https://www.linkedin.com/in/danijel-stefanovic/)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/DanijelTweeting) 
 
 <br>  
