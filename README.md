@@ -31,8 +31,6 @@ OR 👇
 <img height="45px" align="left" alt="react-redux" src="https://img.shields.io/badge/react redux-white?style=for-the-badge&logo=redux&logoColor=purple&labelColor=grey" />  
 <img height="45px" alt="webpack" src="https://img.shields.io/badge/webpack-white?style=for-the-badge&logo=webpack&labelColor=grey" /> 
 
-
-
 <img height="45px" align="left" alt="wordpress" src="https://img.shields.io/badge/wordpress-white?style=for-the-badge&logo=wordpress&logoColor=blue&labelColor=grey" /> 
 <img height="45px" align="left" alt="figma" src="https://img.shields.io/badge/figma-white?style=for-the-badge&logo=figma&labelColor=grey" />     
 <img height="45px" alt="canva" src="https://img.shields.io/badge/canva-white?style=for-the-badge&logo=canva&labelColor=grey" /> 
