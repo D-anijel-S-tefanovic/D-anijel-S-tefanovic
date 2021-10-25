@@ -43,4 +43,3 @@ OR 👇
 <img height="45px" align="left" alt="git-lab" src="https://img.shields.io/badge/gitlab-white?style=for-the-badge&logo=gitlab&labelColor=grey" />
 <img height="45px" align="left" alt="atom" src="https://img.shields.io/badge/atom-white?style=for-the-badge&logo=atom&logoColor=lightgreen&labelColor=grey" />  
 <img height="45px" alt="jira" src="https://img.shields.io/badge/jira-white?style=for-the-badge&logo=jira&logoColor=blue&labelColor=grey" />  
-
