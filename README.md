@@ -29,7 +29,7 @@ OR 👇
 <img height="45px" alt="javascript" src="https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&labelColor=grey" />
 <img height="45px" align="left" alt="react-js" src="https://img.shields.io/badge/reactjs-white?style=for-the-badge&logo=react&labelColor=grey" />   
 <img height="45px" align="left" alt="react-redux" src="https://img.shields.io/badge/react redux-white?style=for-the-badge&logo=redux&logoColor=purple&labelColor=grey" />  
-<img height="45px" alt="webpack" src="https://img.shields.io/badge/webpack-white?style=for-the-badge&logo=webpack&labelColor=grey" /> 
+<img height="45px" alt="webpack" src="https://img.shields.io/badge/webpack-white?style=for-the-badge&logo=webpack&labelColor=grey" />
 
 <img height="45px" align="left" alt="wordpress" src="https://img.shields.io/badge/wordpress-white?style=for-the-badge&logo=wordpress&logoColor=blue&labelColor=grey" /> 
 <img height="45px" align="left" alt="figma" src="https://img.shields.io/badge/figma-white?style=for-the-badge&logo=figma&labelColor=grey" />     
@@ -43,3 +43,4 @@ OR 👇
 <img height="45px" align="left" alt="git-lab" src="https://img.shields.io/badge/gitlab-white?style=for-the-badge&logo=gitlab&labelColor=grey" />
 <img height="45px" align="left" alt="atom" src="https://img.shields.io/badge/atom-white?style=for-the-badge&logo=atom&logoColor=lightgreen&labelColor=grey" />  
 <img height="45px" alt="jira" src="https://img.shields.io/badge/jira-white?style=for-the-badge&logo=jira&logoColor=blue&labelColor=grey" />  
+
