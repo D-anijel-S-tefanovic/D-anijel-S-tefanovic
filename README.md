@@ -29,7 +29,7 @@ OR 👇
 <img height="45px" alt="javascript" src="https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&labelColor=grey" />
 <img height="45px" align="left" alt="react-js" src="https://img.shields.io/badge/reactjs-white?style=for-the-badge&logo=react&labelColor=grey" />   
 <img height="45px" align="left" alt="react-redux" src="https://img.shields.io/badge/react redux-white?style=for-the-badge&logo=redux&logoColor=purple&labelColor=grey" />  
-<img height="45px" alt="webpack" src="https://img.shields.io/badge/webpack-white?style=for-the-badge&logo=webpack&labelColor=grey" />    
+<img height="45px" alt="webpack" src="https://img.shields.io/badge/webpack-white?style=for-the-badge&logo=webpack&labelColor=grey" />      
 
 <img height="45px" align="left" alt="wordpress" src="https://img.shields.io/badge/wordpress-white?style=for-the-badge&logo=wordpress&logoColor=blue&labelColor=grey" /> 
 <img height="45px" align="left" alt="figma" src="https://img.shields.io/badge/figma-white?style=for-the-badge&logo=figma&labelColor=grey" />     
