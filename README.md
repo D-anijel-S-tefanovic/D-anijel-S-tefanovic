@@ -1,15 +1,6 @@
 ### Hi there 👋  
 
-I am a passionate Web Developer based in Hamilton, ON, Canada.  
-  
-  - 🔭 Currently engaged in finding a suitable job position, 
-  - 🌱 While learning and constantly improving my Web - Front End Development skills through various DIY projects. 
-  
-📫 You can reach me at: danijel.stefanovic@opentowork.org 
- 
-  
-OR 👇
- 
+I am a passionate Software Developer/Data Engineer based in Toronto, ON, Canada.  
 
 ## Connect With Me
 [<img align="left" alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/danijel-stefanovic/)
