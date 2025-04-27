@@ -31,5 +31,5 @@
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=0e75b6" alt="danijel-stefanovic" />  
+<img src="https://komarev.com/ghpvc/?username=D-anijel-S-tefanovic&label=Profile+Views&color=green&style=for-the-badge" alt="danijel-stefanovic" />  
 *"Engineering is the art of directing nature to human purpose."*
