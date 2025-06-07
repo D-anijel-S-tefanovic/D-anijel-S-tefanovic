@@ -6,7 +6,7 @@
 
 ## 🚀 Core Philosophy  
 > *"Simplicity is the ultimate sophistication."*  
-> *— Leonardo da Vinci*  
+> * Leonardo da Vinci*  
 
 - <img src="https://simpleicons.org/icons/github.svg" width="16" style="color:#181717"> **Open Source Advocate** – VS Code • Kubernetes • Let’s Encrypt 
 - <img src="https://simpleicons.org/icons/codacy.svg" width="16" style="color:#222F29"> **Clean Code Evangelist** – TypeScript • Rust • SOLID Principles  
