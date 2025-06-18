@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Core Philosophy  
-> *"Simplicity is the ultimate sophistication."*  
+> *"Simplicity is the ultimate sophistication."  
 > * Leonardo da Vinci*  
 
 - <img src="https://simpleicons.org/icons/github.svg" width="16" style="color:#181717"> **Open Source Advocate** – VS Code • Kubernetes • Let’s Encrypt 
@@ -18,7 +18,7 @@
 
 ## 🔭 Current Focus  
 - **📚 Deep Dive**: Distributed Systems & ML Infrastructure  
-- **🌱 Contributing**: [Rust Analyzer](https://github.com/rust-lang/rust-analyzer)  
+- **🌱 Contributing**: [Rust Clippy](https://github.com/rust-lang/rust-clippy)  
 - **✍️ Writing**: TBD
 
 ---
