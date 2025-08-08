@@ -18,7 +18,7 @@
 
 ## 🔭 Current Focus  
 - **📚 Deep Dive**: Distributed Systems & ML Infrastructure  
-- **🌱 Contributing**: [Rust Clippy](https://github.com/rust-lang/rust-clippy)  
+- **🌱 Trying To Contribute**: [Rust Clippy](https://github.com/rust-lang/rust-clippy) [Apache Spark](https://github.com/D-anijel-S-tefanovic/spark) [Free Code Camp](https://github.com/freeCodeCamp/freeCodeCamp)
 - **✍️ Writing**: TBD
 
 ---
