@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Danijel Stefanovic
+# 👋 Hi, I am Danijel Stefanovic
 
-**💻 Software Engineer** | **🛠️ Systems Architect** | **♻️ OSS Contributor**  
+**💻 Software && Data && Cloud Engineer** | **🛠️ Systems Architect** | **♻️ OSS Contributor**  
 
 ---
 
@@ -8,9 +8,9 @@
 > "Simplicity is the ultimate sophistication."  
 > * Leonardo da Vinci
 
-- <img src="https://simpleicons.org/icons/github.svg" width="16" style="color:#181717"> **Open Source Advocate** – VS Code • Kubernetes • Let’s Encrypt 
-- <img src="https://simpleicons.org/icons/codacy.svg" width="16" style="color:#222F29"> **Clean Code Evangelist** – TypeScript • Rust • SOLID Principles  
-- <img src="https://simpleicons.org/icons/linux.svg" width="16" style="color:#FCC624"> **Systems Minimalist** – KISS Architecture • Zero-Dependency Designs  
+- <img src="https://simpleicons.org/icons/github.svg" width="16" style="color:#181717"> **Open Source Advocate** 
+- <img src="https://simpleicons.org/icons/codacy.svg" width="16" style="color:#222F29"> **Clean Code Evangelist**  
+- <img src="https://simpleicons.org/icons/linux.svg" width="16" style="color:#FCC624"> **Systems Minimalist** 
 
 ![Binary Matrix](https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif)  
 
@@ -18,16 +18,14 @@
 
 ## 🔭 Current Focus  
 - **📚 Deep Dive**: Distributed Systems & ML Infrastructure  
-- **🌱 Trying To Contribute**: [Rust Clippy](https://github.com/rust-lang/rust-clippy) [Apache Spark](https://github.com/D-anijel-S-tefanovic/spark) [Free Code Camp](https://github.com/freeCodeCamp/freeCodeCamp)
+- **🌱 Trying To Contribute**: [Apache Spark](https://github.com/D-anijel-S-tefanovic/spark)
 - **✍️ Writing**: TBD
 
 ---
 
 ## 🤝 Let's Collaborate  
 
-[![LinkedIn](https://img.shields.io/badge/-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danijel-stefanovic)  
-[![Stack Overflow](https://img.shields.io/badge/-ASK_ME-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/17238650)  
-[![Blog](https://img.shields.io/badge/-READ-FF7139?style=for-the-badge&logo=hexo&logoColor=white)]()  
+[![LinkedIn](https://img.shields.io/badge/-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danijel-stefanovic)    
 
 ---
 
