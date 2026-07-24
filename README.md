@@ -1,26 +1,25 @@
 # 👋 Hi, I am Danijel Stefanovic
 
-**💻 Software && Data && Cloud Engineer** | **🛠️ Systems Architect** | **♻️ OSS Contributor**  
+**💻 Software Development| Data Engineering | Cloud Infrastructure** 
 
 ---
 
-## 🚀 Core Philosophy  
+## 🦉 Core Philosophy  
 > "Simplicity is the ultimate sophistication."  
-> * Leonardo da Vinci
+> * Leonardo da Vinci [1] 
 
-- <img src="https://simpleicons.org/icons/github.svg" width="16" style="color:#181717"> **Open Source Advocate** 
-- <img src="https://simpleicons.org/icons/codacy.svg" width="16" style="color:#222F29"> **Clean Code Evangelist**  
-- <img src="https://simpleicons.org/icons/linux.svg" width="16" style="color:#FCC624"> **Systems Minimalist** 
+- **🛠️ Distributed Systems Architect** 
+- **♻️ Open Source Contributor & Advocate**  
+- **✨ Clean Code Evangelist** 
 
 ![Binary Matrix](https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif)  
 
 ---
 
 ## 🔭 Current Focus  
-- **📚 Deep Dive**: Distributed Systems & ML Infrastructure  
-- **🌱 Trying To Contribute**: [Apache Spark](https://github.com/D-anijel-S-tefanovic/spark)
-- **✍️ Writing**: TBD
-
+- **Deep Dive**: Build LLM From Scratch - Sebastian Raschka 
+- **Contributor Project**: [Apache Spark](https://github.com/D-anijel-S-tefanovic/spark)
+- **Weekend Project**: [Forth Interpreter](https://github.com/D-anijel-S-tefanovic/forth-interpreter)
 ---
 
 ## 🤝 Let's Collaborate  
@@ -30,3 +29,7 @@
 ---
 
 <img src="https://komarev.com/ghpvc/?username=D-anijel-S-tefanovic&label=Profile+Views&color=green&style=for-the-badge" alt="danijel-stefanovic" />  
+
+---
+
+#### [^1]: Note: A modern marketing and internet-culture expression, this exact phrasing does not appear in historical records.
