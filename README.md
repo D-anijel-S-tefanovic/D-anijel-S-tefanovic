@@ -32,4 +32,4 @@
 
 ---
 
-#### [^1]: Note: A modern marketing and internet-culture expression, this exact phrasing does not appear in historical records.
+#### [^1]: A modern marketing and internet-culture expression, this exact phrasing does not appear in historical records.
