@@ -1,6 +1,6 @@
 # 👋 Hi, I am Danijel Stefanovic
 
-**💻 Software Development| Data Engineering | Cloud Infrastructure** 
+**💻 Software Development | Data Engineering | Cloud Infrastructure** 
 
 ---
 
