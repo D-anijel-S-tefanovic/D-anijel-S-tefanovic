@@ -1,6 +1,7 @@
 # 👋 Hi, I am Danijel Stefanovic
 
 **💻 Software, Data & Cloud Engineering @ RBC**
+
 **🌐 IEEE & ACM Member**
 
 ---
