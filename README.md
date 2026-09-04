@@ -1,6 +1,7 @@
 # 👋 Hi, I am Danijel Stefanovic
 
-**💻 Software Development | Data Engineering | Cloud Infrastructure** 
+**💻 Software, Data & Cloud Engineering @ RBC**
+**🌐 IEEE & ACM Member**
 
 ---
 
