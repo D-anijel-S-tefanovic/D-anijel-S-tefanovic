@@ -2,7 +2,7 @@
 
 **💻 Software, Data & Cloud Engineering @ RBC**
 
-**🌐 IEEE & ACM Member**
+**🌐 ACM & IEEE Member**
 
 ---
 
